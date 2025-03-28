@@ -1,0 +1,9 @@
+.venv/
+venv/
+.env
+secrets.toml
+vector_store/
+__pycache__/
+vector_storeStepik/
+vector_storeCoursera/
+
